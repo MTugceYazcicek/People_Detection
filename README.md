@@ -1,4 +1,4 @@
-# People_Detection
+
 # YOLO ile Gerçek Zamanlı Nesne Tespiti
 
 Bu proje, `YOLO_Hazir_Model.ipynb` Jupyter Notebook'u aracılığıyla, hazır eğitilmiş bir YOLOv8 modeli kullanarak bir web kamerasından (webcam) gerçek zamanlı nesne tespiti yapar.
