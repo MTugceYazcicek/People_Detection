@@ -1,0 +1,7 @@
+# YOLO kütüphanesi
+ultralytics
+
+# Görüntü işleme ve webcam
+opencv-python
+numpy
+matplotlib

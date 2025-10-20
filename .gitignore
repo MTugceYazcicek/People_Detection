@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*.egg-info/
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+*/venv/
+*/env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# YOLO / Ultralytics
+# --- ÇOK ÖNEMLİ ---
+*.pt
+*.pth
+*.weights
+runs/
+yolov8n.pt
+
+# Çıktı dosyaları (resim veya videolar)
+*.mp4
+*.avi
+*.jpg
+*.jpeg
+*.png
+
+# Ortam Değişkenleri
+.env
+*.env
